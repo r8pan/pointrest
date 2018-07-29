@@ -62,6 +62,32 @@ The link below is our high-fi prototype. We designed in with Adobe XD and used i
 
 [Pointrest_high-fi_prototype](/peoptrest.xd)
 
+### Test and Evaluate
 
+Great thanks to our evaluation participants. They gave our some much great feedback so that we could improve our prototype.
 
+We had two rounds of prototypes, one for each typed stated in the last section.
 
+We gave them basically the same 4~5 tasks for both evaluations:
+
+* Find a location and find its reviews
+* find out what yor friends are currently up to
+* create an event
+* update your interest
+
+Since these four tasks are the main design that we focused on for our application.
+
+In paper prototype evaluation we found some following issues:
+
+* It’s difficult to add new events or locations
+* The location details page hides information
+* The menu icon was unintuitive
+
+Based on these findings, we modified our paper prototype in following ways:
+* We have enlarged the add event button and improved the styling to make it more clearly communicate that it is a button for adding new events. 
+* We have also changed the way we display location details. We have decided to move the action buttons to the very top of the page, so the users have easy access to decisions should they feel informed enough to make quick decisions and avoid the notion that the detail page ends with the action buttons. Incorporating the use of closure in Gestalt Principle, we have purposely left the Review headers cropped up half way, indicating clearly to users that there is more information below, and prompting them to scroll down and see more reviews.
+* The improvements for the menu icon is unfeasible on the paper prototype due to the restraints of resolution and image size, but we have opted to add annotations to the menu navigation icon like Pinterest has on their apps in our high-fidelity prototype. This should help users figure out what the icons represent, should the icons be insufficient.
+
+![paper prototype design_progress](/images/pp_change.png)
+
+We enlarged the add button, and we changed the display style to indicate the pape is incomplete, and there are reviews to been seen.
