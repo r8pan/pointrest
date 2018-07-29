@@ -18,4 +18,4 @@ We wrap our heads around following hypotheses when building our application:
 
 We follow the development cycle shown below for our application:
 
-![Development Cycle](https://github.com/r8pan/pointrest/master/images/dc.png)
+![Development Cycle](https://raw.githubusercontent.com/r8pan/pointrest/master/images/dc.png)
