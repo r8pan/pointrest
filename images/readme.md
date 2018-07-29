@@ -1,1 +1,1 @@
-This is the miage folder
+This is the image folder.
