@@ -1,6 +1,6 @@
 # Pointrest
 
-by Peoptrest
+by Peoptrest in the summer of 2018
 
 ### Motivations
 
@@ -16,6 +16,43 @@ We wrap our heads around following hypotheses when building our application:
 
 ### Design Process
 
-We follow the development cycle shown below for our application:
+We followed the development cycle shown below for our application:
 
 ![Development Cycle](/images/dc.png)
+
+### Understand our users
+
+We want to target mainly three types of users: travellers, new residents, long term residents, and event promoters, and we divide new residents into working people and students. Travellers don’t have much time staying in one city, so they want to hit major/popular points of interests. They value quality of the trip and have comparatively high expectation. New residents have higher tolerance with few unpleasant experience, and instead they value more social functions these places provide. Students should have more time and usually travel in groups, and
+they are more active on social media, while working people may want more personal time exploring these places. Long term residents already visit most of the city’s attractions, so they would be more likely to explore exotic places that may be forgotten. Event promoters consider more about popularity of the place, its main customer type, and when a good time is for such an event.
+
+We designed some personas to help us understand our users' needs better:
+
+![persona example](/images/personas.png)
+
+Then we conducted several interviews with people who was similar to our anticipated target users.
+
+### Translating needs into functionalities
+
+From interviews, we made an affinity diagram to find out some common issues existing in the interviews, together with work models. We concluded that there are four major findings we could use for our application:
+
+* People value the opinions of their friends over all else
+* Reviews and Pictures are a good secondary source besides friends
+* People want to find other people with common interests
+* Organizing events can be challenging for the average person
+
+### Create design ideas
+
+We drew some sketches and story boards for our intial design ideas:
+
+![persona example](/images/user_story.png)
+
+And we decided to focus on following functionalities as our major features in design:
+
+1) Providing users with their friends (or other explorers) opinion on an event or a location
+2) Helping our users socialize with the locals
+3) Adding a simple event organization medium
+
+
+
+
+
