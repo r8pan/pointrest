@@ -13,3 +13,9 @@ We wrap our heads around following hypotheses when building our application:
 * Planning is a hassle and is frustrating for people
 * People want to know about cool spots/ experiences other people have had.
 * People want their friends opinion about a place before their visit
+
+### Design Process
+
+We follow the development cycle shown below for our application:
+
+![Development Cycle](https://github.com/r8pan/pointrest/images/dc.png)
