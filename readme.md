@@ -48,9 +48,9 @@ We drew some sketches and story boards for our intial design ideas:
 
 And we decided to focus on following functionalities as our major features in design:
 
-1) Providing users with their friends (or other explorers) opinion on an event or a location
-2) Helping our users socialize with the locals
-3) Adding a simple event organization medium
+* Providing users with their friends (or other explorers) opinion on an event or a location
+* Helping our users socialize with the locals
+* Adding a simple event organization medium
 
 
 
