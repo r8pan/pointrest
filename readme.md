@@ -88,6 +88,6 @@ Based on these findings, we modified our paper prototype in following ways:
 * We have also changed the way we display location details. We have decided to move the action buttons to the very top of the page, so the users have easy access to decisions should they feel informed enough to make quick decisions and avoid the notion that the detail page ends with the action buttons. Incorporating the use of closure in Gestalt Principle, we have purposely left the Review headers cropped up half way, indicating clearly to users that there is more information below, and prompting them to scroll down and see more reviews.
 * The improvements for the menu icon is unfeasible on the paper prototype due to the restraints of resolution and image size, but we have opted to add annotations to the menu navigation icon like Pinterest has on their apps in our high-fidelity prototype. This should help users figure out what the icons represent, should the icons be insufficient.
 
-![paper prototype design_progress](/images/pp_change.png)
+![paper prototype design_progress](/images/pp_changes.png)
 
 We enlarged the add button, and we changed the display style to indicate the pape is incomplete, and there are reviews to been seen.
