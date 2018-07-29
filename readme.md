@@ -1,5 +1,3 @@
-# Pointrest
-
 by Peoptrest in the summer of 2018
 
 ### Motivations
@@ -52,6 +50,17 @@ And we decided to focus on following functionalities as our major features in de
 * Helping our users socialize with the locals
 * Adding a simple event organization medium
 
+### Prototype design
+
+We made a paper prototype first, then we made a high fidelity prototype:
+
+This is our paper prototype:
+
+![paper prototype workflow](/images/paper_prototype.png)
+
+The link below is our high-fi prototype. We designed in with Adobe XD and used iPhone 8 as the model:
+
+[Pointrest_high-fi_prototype](/peoptrest.xd)
 
 
 
