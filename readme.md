@@ -77,6 +77,8 @@ We gave them basically the same 4~5 tasks for both evaluations:
 
 Since these four tasks are the main design that we focused on for our application.
 
+##### Paper Prototype
+
 In paper prototype evaluation we found some following issues:
 
 * It’s difficult to add new events or locations
@@ -91,3 +93,21 @@ Based on these findings, we modified our paper prototype in following ways:
 ![paper prototype design_progress](/images/pp_changes.png)
 
 We enlarged the add button, and we changed the display style to indicate the pape is incomplete, and there are reviews to been seen.
+
+##### High Fidelity Prototype
+
+We did two kinds of evaluations of this prototype: heuristics and cognitive walkthrough. With cognitive walkthrough, we evaluated on the same tasks, while in heuristics evaluation, we asked our evaluators to use our application with following heuristics in mind: Visibility of system status, match between system and the real world, consistency and standards, recognition rather than recall, aesthetic and minimalist design, and relatedness.
+
+The overall feedback was positive, but we were still glad to receive some suggestions:
+* We need to make some icons stand out more, so that they would not blend into the background
+* Some links needs to indicate that they are clickable
+* The alignment on some pages could be better distributed
+* The use of some icons reveal ambiguity
+
+### Build final version
+
+Unfortunately, we did not have time for this step in the course.
+
+### Conclusion
+
+Overall, we feel that our app was made just as much by our evaluators as it was made by us. The various decisions we made about our app design were mostly all based off problems that our evaluators/study participants experienced. It made the experience feel more like addressing someone's problems with an app rather than just arbitrarily designing something that looks and feels cool. Despite all the things we ran out of time to do, we feel like we learned a lot about how to take feedback from external sources and use it to improve our ideas.
