@@ -77,7 +77,7 @@ We gave them basically the same 4~5 tasks for both evaluations:
 
 Since these four tasks are the main design that we focused on for our application.
 
-##### Paper Prototype
+**Paper Prototype**
 
 In paper prototype evaluation we found some following issues:
 
@@ -94,7 +94,7 @@ Based on these findings, we modified our paper prototype in following ways:
 
 We enlarged the add button, and we changed the display style to indicate the pape is incomplete, and there are reviews to been seen.
 
-##### High Fidelity Prototype
+**High Fidelity Prototype**
 
 We did two kinds of evaluations of this prototype: heuristics and cognitive walkthrough. With cognitive walkthrough, we evaluated on the same tasks, while in heuristics evaluation, we asked our evaluators to use our application with following heuristics in mind: Visibility of system status, match between system and the real world, consistency and standards, recognition rather than recall, aesthetic and minimalist design, and relatedness.
 
